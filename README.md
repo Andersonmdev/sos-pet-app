@@ -1,3 +1,7 @@
-## SOS-Animal-app
+# S.O.S Pet
   
-  Application developed to help in the search for lost animals, with the backend in Node.js, frontend in React and mobile in React Native.
+  Complete application developed to help in the search for lost pets.
+  
+  + Backend developed with [***node.js***](https://nodejs.org/en/).
+  + Frontend developed with [***reactjs***](https://reactjs.org/).
+  + Mobile developed with [***react-native***](https://reactnative.dev/).
